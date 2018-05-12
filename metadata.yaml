@@ -1,0 +1,32 @@
+_repo: The-BrowningsTheir-Life-and-Art_30671
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whiting, Lilian
+    alias: Whiting, Emily Lillian
+    birthdate: 1847
+    deathdate: 1942
+    gutenberg_agent_id: '26052'
+    url: http://www.gutenberg.org/2009/agents/26052
+    wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
+description: ''
+gutenberg_issued: '2009-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30671'
+  lccn: '11026419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Browning, Robert, 1812-1889 -- Marriage'
+- !lcsh 'Married people -- Great Britain -- Biography'
+- !lcsh 'Browning, Elizabeth (Barrett) 1806-1861 -- Marriage'
+- !lcc 'PR'
+title: The Brownings, Their Life and Art
+url: http://www.gutenberg.org/ebooks/30671
